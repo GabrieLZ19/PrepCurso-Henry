@@ -1,0 +1,32 @@
+
+.botonRojo{
+
+    background-color: brown;
+    color: aqua;
+    font-weight: 600;
+
+}
+
+.botonAzul{
+
+    
+    background-color: blue;
+    color: aqua;
+    font-weight: 1000;
+
+}
+
+.moverBoton{
+
+    position: relative;
+    left: 200px;
+    bottom: 100px;
+
+}
+
+.botonRojo:hover{
+
+    background-color: aqua;
+    color: brown;
+    font-weight: 1000;
+}

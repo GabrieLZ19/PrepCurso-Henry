@@ -1,0 +1,35 @@
+
+#lupa{
+
+    width: 20px;
+
+}
+
+.lupaClase{
+
+    height: 30px;
+}
+
+.ancho200px{
+
+    width: 200px;
+}
+
+article p{ 
+
+    background-color: pink;
+}
+
+.titulo{ 
+
+    background-color: black;
+    color: yellow;
+}
+
+.titulo:hover{
+
+    background-color: yellow;
+    color: black;
+    cursor: pointer;
+}
+
